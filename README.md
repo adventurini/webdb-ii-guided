@@ -8,6 +8,6 @@ This is the post guided project for **DB II** Module.
 - [This Query Tool Loaded in the browser](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top).
 - [Postman](https://www.getpostman.com/downloads/) installed.
 
-## Project Setup
+## Lecture
 
-My notes, solutions, etc. are included.
+My notes, solutions, etc. are included. This is the solution code.
